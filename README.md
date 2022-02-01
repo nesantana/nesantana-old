@@ -4,7 +4,7 @@
 Note que onde está "seu-usuário-aqui", você deve colocar seu usuário, ok? 
 Além disso, esclua os comentários como esse -->
 
-- 🔭 I’m currently working on Invillia Growth Framework
+- 🔭 I’m currently working at DQG Tech in team of Bank BTG
 - 🌱 I’m currently learning React, forever
 - 💬 Ask me about JavaScript
 
